@@ -30,4 +30,7 @@ node_modules
 .idea
 .vscode
 
+# output files
+lib
+
 .DS_Store
